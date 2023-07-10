@@ -14,6 +14,11 @@ Share files seemlessly within 2 or more devices, like share images from mobile t
 [nearbys2.web.app](https://nearbys2.web.app/)
 
 
+## Tech Stack
+
+**Client:** React, Web-App
+
+
 ## Support
 
 For support, email samvbyat1@gmail.com.
