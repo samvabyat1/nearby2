@@ -1,6 +1,8 @@
 
 # Nearby 2.0
 
+[NOTE] Nearby 2.5 latest version is now deploying...
+
 Share files seemlessly within 2 or more devices, like share images from mobile to pc, copy text from pc to mobile, share documents on the go and do more...
 A simple ecosystem embedded in web-app.
 
